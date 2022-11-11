@@ -1,1 +1,1 @@
-select * from "population"."population" limit 10
+select * from "population.db"."population" limit 10
