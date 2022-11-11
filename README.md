@@ -1,4 +1,7 @@
 # dio-live-athena
+
+Projeto DIO de análise de dados demograficos do Brasil utilizando o serviço Athena e QuickSight da AWS.
+
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 
 ### Serviços utilizados nessa atividade prática
